@@ -1,0 +1,78 @@
+.formularioDepartamentosSexo{
+    border:  solid rgb(30,153,221) ;
+    width: 1240px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.departamentosSelect, .municipiosSelect{
+
+    width: 500px;
+    text-align-last:center;
+}
+
+.torta{
+    width: 800px;
+    height: 500px;
+    margin: auto;
+}
+
+.barra{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    margin-top: -14px;
+}
+
+
+.encab, .piePagina{
+    background-color: rgb(30,153,221);
+}
+
+.torta{
+
+    margin-left: 280px;
+}
+
+.formularioIndex{
+    border:  solid rgb(30,153,221) ;
+    width: 1200px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.card{
+    border:  solid rgb(30,153,221) ;
+    height: 210px;
+    flex-wrap: wrap;
+    flex: initial; 
+}
+
+.boton{
+    background:  #7aaef1;
+    border-bottom: 5px solid #0f1ffa;
+    border-radius: 12px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s ease 0s;
+  }
+
+  .boton:hover{
+      background: #0f1ffa;
+  }
+
+
+  #botonConsultar{
+    width: 100px;
+  }
+
+  #botonRegresarInicio{
+    width: 150px;
+  }
+  
+  .video{
+    border:  solid rgb(30,153,221) ;
+  }
+
+ 
